@@ -1,2 +1,3 @@
-# flex-e-learning-8xwt
-A online learning platform for modern development workflows
+# Flex E Learning 8Xwt
+
+A online learning platform for modern development workflows.
